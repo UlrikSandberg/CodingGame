@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{9FCBA719-4072-58CB-57DA-B152AF96A550}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Turret.cs">
+    <Files>
+      <File FileName="Assets/Editor/FieldOfViewEditor.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scenes/Turret.cs" Line="57" Column="14" />
+      <File FileName="Assets/Scenes/SphericalFOW.cs" Line="18" Column="21" />
+      <File FileName="Assets/Scenes/Player.cs" Line="37" Column="36" />
+      <File FileName="Assets/MatrixUtil/MatrixError.cs" />
+      <File FileName="Assets/MatrixUtil/MatrixMath.cs" />
+      <File FileName="Assets/Scenes/RayCastInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/Enemy.cs" Line="10" Column="5" />
+      <File FileName="Assets/Scenes/ShatterableEntity.cs" Line="14" Column="46" />
+      <File FileName="Assets/Scenes/FieldOfView.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scenes/FragmentSpawner.cs" Line="39" Column="109" />
+      <File FileName="Assets/Scenes/Bullet.cs" Line="21" Column="103" />
+      <File FileName="Assets/Scenes/GameManager.cs" Line="94" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodingGame" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Scenes" expanded="True">
+                  <Node name="Turret.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="02423d94-60ea-45dc-a91b-46539ee48fc8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
